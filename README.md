@@ -1,4 +1,4 @@
-# Atta Ur Rehman
+<!-- # Atta Ur Rehman
 
 > Data Scientist | Computer Vision Engineer | High-Performance Computing
 
@@ -131,4 +131,4 @@ I am a Computer Scientist specializing in Artificial Intelligence and High-Perfo
 
 ---
 
-> I combine AI research, computer vision engineering, and high-performance computing to build solutions that are both intelligent and efficient.
+> I combine AI research, computer vision engineering, and high-performance computing to build solutions that are both intelligent and efficient. -->
