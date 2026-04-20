@@ -1,8 +1,83 @@
-# Muhammad Taha
+# Atta Ur Rehman
 
 > Data Scientist | Computer Vision Engineer | High-Performance Computing
 
-![Profile Banner](https://raw.githubusercontent.com/attarehman962/attarehman962/main/banner.png)
+> **Note:** GitHub README files do not support active HTML/CSS animations in the rendered profile. The code below can be used as a website banner, but it will display as plain text in GitHub.
+
+## 🌐 Banner HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animated GitHub Banner</title>
+    <style>
+      body {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f0f0f0; /* Light background to test */
+      }
+
+      .banner-container {
+        width: 1000px; /* Standard GitHub Header Width */
+        height: 250px;
+        background-color: #24292e; /* GitHub dark theme background */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family:
+          "Courier New", Courier, monospace; /* Monospace font looks like code */
+        color: #ffffff;
+        border-radius: 6px;
+        overflow: hidden;
+      }
+
+      .typing-text {
+        font-size: 3em;
+        font-weight: bold;
+        white-space: nowrap;
+        overflow: hidden; /* Keeps text hidden until revealed */
+        border-right: 4px solid #ffffff; /* The cursor */
+        width: 0; /* Start with no text visible */
+        animation:
+          typing 3.5s steps(30, end) forwards,
+          /* Typewriter effect */ blink-cursor 0.75s step-end infinite; /* Cursor blink */
+      }
+
+      /* The Typing Animation */
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+        to {
+          width: 100%;
+        } /* Adjust percentage based on text length */
+      }
+
+      /* The Cursor Animation */
+      @keyframes blink-cursor {
+        from,
+        to {
+          border-color: transparent;
+        }
+        50% {
+          border-color: #ffffff;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner-container">
+      <div class="typing-text">I am a Web Developer.</div>
+    </div>
+  </body>
+</html>
+```
 
 ## 👋 About Me
 
