@@ -6,8 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=React+%2B+FastAPI+%2B+PostgreSQL;Building+secure%2C+database-driven+web+apps;JWT+Auth+%7C+REST+APIs+%7C+Admin+Dashboards;Clean+frontend.+Solid+backend.+Real+software.)](https://git.io/typing-svg)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/attarehman962.svg)](https://user-badge.committers.top/pakistan_public/attarehman962)
-![Profile Views](https://komarev.com/ghpvc/?username=attarehman962&color=00FFB2&style=flat-square&label=PROFILE+VIEWS)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-attarehman962-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/attarehman962)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
