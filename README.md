@@ -1,204 +1,203 @@
 <div align="center">
 
-# Atta Ur Rehman
+```
+ █████╗ ████████╗████████╗ █████╗     ██╗   ██╗██████╗     ██████╗ ███████╗██╗  ██╗███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗    ██║   ██║██╔══██╗    ██╔══██╗██╔════╝██║  ██║████╗ ████║██╔══██╗████╗  ██║
+███████║   ██║      ██║   ███████║    ██║   ██║██████╔╝    ██████╔╝█████╗  ███████║██╔████╔██║███████║██╔██╗ ██║
+██╔══██║   ██║      ██║   ██╔══██║    ██║   ██║██╔══██╗    ██╔══██╗██╔══╝  ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║   ██║      ██║   ██║  ██║    ╚██████╔╝██║  ██║    ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-### Full Stack Developer · React · FastAPI · PostgreSQL  
-#### BS Computer Science @ FAST-NUCES '26
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%2B+FastAPI+%2B+PostgreSQL;FAST-NUCES+Computer+Science+Student;Building+secure+database-driven+web+applications;Frontend+%2B+Backend+%2B+APIs+%2B+Authentication;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
-Building secure, database-driven web applications with clean frontend architecture, reliable backend APIs, authentication systems, and maintainable full-stack workflows.
-
-<br />
-
-<a href="mailto:attaurrehman.builds@gmail.com">
-  <img src="https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.linkedin.com/in/attaurrehman962/">
-  <img src="https://img.shields.io/badge/LinkedIn-Atta%20Ur%20Rehman-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://github.com/attarehman962">
-  <img src="https://img.shields.io/badge/GitHub-attarehman962-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=attarehman962&style=flat-square&color=8b949e&label=Profile+Views" />
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/attarehman962.svg)](https://user-badge.committers.top/pakistan_public/attarehman962)
+![Profile Views](https://komarev.com/ghpvc/?username=attarehman962&color=00FFB2&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## `> whoami`
 
-I am a **Full Stack Developer** and **BS Computer Science student at FAST-NUCES**, focused on building practical, secure, and database-driven web applications.
-
-My work mainly revolves around:
-
-- Designing responsive frontend interfaces with **React, Vite, Tailwind CSS, and modern JavaScript**
-- Building backend APIs using **FastAPI, Flask, SQLAlchemy, and REST architecture**
-- Implementing authentication flows using **JWT, password hashing, protected routes, and role-based access control**
-- Working with relational databases such as **PostgreSQL, MySQL, and SQLite**
-- Structuring full-stack projects with clean code, reusable components, and maintainable architecture
-
-I am especially interested in **backend systems, API design, authentication, database architecture, admin dashboards, and scalable web applications**.
-
----
-
-## Technical Stack
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Vite-161b22?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-161b22?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/React_Router-161b22?style=for-the-badge&logo=reactrouter&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Axios-161b22?style=for-the-badge&logo=axios&logoColor=white&labelColor=0d1117" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/REST_APIs-161b22?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Pydantic-161b22?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/JWT_Authentication-161b22?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d1117" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Alembic-161b22?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Command_Line-161b22?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117" />
-</p>
-
-### Core Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/CRUD_Applications-161b22?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Admin_Dashboards-161b22?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Auth_Systems-161b22?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Role_Based_Access_Control-161b22?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/API_Integration-161b22?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Database_Design-161b22?style=for-the-badge&labelColor=0d1117" />
-</p>
+```json
+{
+  "name": "Atta Ur Rehman",
+  "github": "attarehman962",
+  "role": "Full Stack Developer",
+  "education": "BS Computer Science, FAST-NUCES '26",
+  "focus": [
+    "React Frontend Development",
+    "FastAPI Backend Development",
+    "REST API Engineering",
+    "Authentication Systems",
+    "Database-Driven Applications"
+  ],
+  "stack": ["React", "FastAPI", "PostgreSQL", "SQLAlchemy", "JWT", "Tailwind CSS"],
+  "mindset": "Build clean. Secure the backend. Ship practical software.",
+  "status": "Currently building full-stack projects and growing as a developer"
+}
+```
 
 ---
 
-## Featured Projects
+## 💬 Languages I Speak
 
-### DocMate — Full Stack PDF Workspace
+<div align="center">
 
-A full-stack PDF processing platform designed for document workflows such as merging, splitting, compression, rotation, watermarking, conversion, text extraction, translation, and AI-assisted summarization.
+> _Not just frameworks — the actual languages I use to build, debug, and ship software._
 
-**Tech Stack:** React, Vite, Tailwind CSS, FastAPI, SQLAlchemy, SQLite/PostgreSQL, pypdf, ReportLab
+| Language | Why I Use It |
+|---|---|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend development, React applications, API-driven interfaces, and browser-based logic. |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black) | Backend APIs, FastAPI/Flask applications, automation, authentication, and data handling. |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | Core programming fundamentals, memory concepts, logic building, and CS foundations. |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | Object-oriented programming, problem solving, data structures, and performance-oriented logic. |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | Database queries, relational models, CRUD systems, joins, schema design, and persistence. |
 
-**Key Features**
+</div>
 
-- PDF merge, split, compress, rotate, watermark, and conversion workflows
-- Text extraction with OCR fallback support for scanned documents
-- Multilanguage translation and AI-based document summarization workflow
-- Secure backend handling with hashed passwords, session tokens, file validation, and structured APIs
-- Clean frontend workflow for uploading, processing, and downloading documents
+---
 
-**Engineering Highlights**
+## ⚡ Tech Arsenal
 
-- Designed full-stack architecture with separated frontend and backend responsibilities
-- Built API-driven document processing flows
-- Focused on secure file validation and maintainable backend logic
+<div align="center">
 
-<p>
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1f1f1f?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1f1f1f?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1f1f1f?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React Router](https://img.shields.io/badge/React_Router-1f1f1f?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![Axios](https://img.shields.io/badge/Axios-1f1f1f?style=for-the-badge&logo=axios&logoColor=5A29E4)
+
+### ⚙️ Backend
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1f1f1f?style=for-the-badge&logo=fastapi&logoColor=00FFB2)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1f1f1f?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-1f1f1f?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-1f1f1f?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+### 🚀 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Alembic](https://img.shields.io/badge/Alembic-111827?style=for-the-badge&logo=python&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command_Line-111827?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🧠 Core Engineering Concepts
+
+![CRUD](https://img.shields.io/badge/CRUD_Applications-1f1f1f?style=for-the-badge)
+![Admin Dashboards](https://img.shields.io/badge/Admin_Dashboards-1f1f1f?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication_Systems-1f1f1f?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-1f1f1f?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-1f1f1f?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database_Design-1f1f1f?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| [📄 DocMate](https://github.com/attarehman962/DocMate) | Full-stack PDF workspace supporting merge, split, compress, rotate, watermark, conversion, text extraction, OCR fallback, translation, and AI-based summarization workflow. Live: [docmate-pagebuddy.netlify.app](https://docmate-pagebuddy.netlify.app/) | React, Vite, Tailwind CSS, FastAPI, SQLAlchemy, SQLite/PostgreSQL, pypdf, ReportLab |
+| [🛡️ User Management System](https://github.com/attarehman962/User_Management) | Secure role-based admin dashboard with protected CRUD operations, JWT authentication, backend permissions, PostgreSQL migrations, and tested backend logic. Live: [user-management-p.netlify.app](https://user-management-p.netlify.app/) | FastAPI, React, Vite, PostgreSQL, SQLAlchemy, JWT, Alembic |
+| [🔢 Digital Logics Studio](https://github.com/attarehman962/DigitalLogicsStudio/tree/main) | Interactive digital-logic learning platform with Circuit Forge, K-Map Studio, Boolean algebra topics, number systems, circuits, memory, and sequential logic concepts. Live: [circuits.quantumlogicslimited.com](https://circuits.quantumlogicslimited.com/) | React 18, React Router DOM, Axios, CSS, REST API |
+
+</div>
+
+---
+
+## 🧩 Project Deep Dive
+
+### 📄 DocMate — Full Stack PDF Workspace
+
+```txt
+A practical document-processing platform built around real PDF workflows.
+```
+
+- Built PDF tools for merge, split, compress, rotate, watermark, and conversion
+- Added text extraction and OCR fallback for scanned documents
+- Integrated multilingual translation and AI-based document summarization workflow
+- Implemented backend file validation and structured API handling
+- Designed full-stack separation between React frontend and FastAPI backend
+
+<p align="center">
   <a href="https://github.com/attarehman962/DocMate">
-    <img src="https://img.shields.io/badge/Repository-View_Code-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://docmate-pagebuddy.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-161b22?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Live_Demo-00FFB2?style=for-the-badge&logo=netlify&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### User Management System — Full Stack Application
+### 🛡️ User Management System — Full Stack Application
 
-A secure user management platform with role-based administration, protected CRUD operations, authentication, and backend-enforced permission handling.
+```txt
+A secure admin-focused application built around authentication, authorization, and database control.
+```
 
-**Tech Stack:** FastAPI, React, Vite, PostgreSQL, SQLAlchemy, JWT, Alembic
+- Developed role-based admin dashboard with protected user operations
+- Implemented HS256 JWT authentication flow
+- Used PBKDF2-SHA256 password hashing with Python security utilities
+- Managed PostgreSQL migrations using Alembic
+- Added backend testing against SQLite for core functionality
 
-**Key Features**
-
-- Role-based admin dashboard for managing users
-- Protected CRUD operations with backend permission checks
-- JWT authentication using HS256
-- PBKDF2-SHA256 password hashing
-- PostgreSQL schema migrations using Alembic
-- Backend unit tests using SQLite for core functionality
-
-**Engineering Highlights**
-
-- Implemented authentication and authorization at API level
-- Structured database migrations for maintainable schema evolution
-- Built a practical admin dashboard workflow suitable for real-world applications
-
-<p>
+<p align="center">
   <a href="https://github.com/attarehman962/User_Management">
-    <img src="https://img.shields.io/badge/Repository-View_Code-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://user-management-p.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-161b22?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Live_Demo-00FFB2?style=for-the-badge&logo=netlify&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### Digital Logics Studio — Interactive Learning Platform
+### 🔢 Digital Logics Studio — Interactive Learning Platform
 
-A React-based interactive learning platform for digital logic concepts, designed with simulation-focused modules and structured educational pages.
+```txt
+A React-based learning platform for digital logic, circuits, and simulation-focused concepts.
+```
 
-**Tech Stack:** React 18, React Router DOM, Axios, CSS, REST API
+- Built interactive frontend modules for digital-logic education
+- Created Circuit Forge and K-Map Studio simulation workflows
+- Developed topic pages for Boolean algebra, number systems, arithmetic circuits, memory, and sequential logic
+- Implemented login, signup, logout, and persistent session restoration
+- Structured frontend routing using React Router DOM
 
-**Key Features**
-
-- Circuit Forge and K-Map Studio simulation tools
-- Topic pages for Boolean algebra, number systems, arithmetic circuits, memory, and sequential logic
-- Authentication flow with login, signup, logout, and session restoration
-- API-driven frontend structure using Axios and React Router
-
-**Engineering Highlights**
-
-- Built interactive frontend modules for technical learning workflows
-- Structured educational content into reusable route-based pages
-- Implemented persistent authentication handling in the frontend
-
-<p>
+<p align="center">
   <a href="https://github.com/attarehman962/DigitalLogicsStudio/tree/main">
-    <img src="https://img.shields.io/badge/Repository-View_Code-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://circuits.quantumlogicslimited.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-161b22?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Live_Demo-00FFB2?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Full Stack Developer Intern  
 **QuantumLogicsLabs** · Apr 2026 — Present
@@ -206,69 +205,63 @@ A React-based interactive learning platform for digital logic concepts, designed
 - Developed responsive frontend interfaces using React, modern CSS, reusable components, and API-driven UI flows
 - Implemented JWT-based authentication flows including login, signup, protected routes, session handling, and backend validation
 - Built and maintained backend APIs using FastAPI/Flask for database-driven web application features
-- Worked with PostgreSQL/MySQL for database design, queries, relationships, and persistence
-- Collaborated using Git and structured version control workflows
+- Worked with PostgreSQL/MySQL for database design, queries, data relationships, and application persistence
+- Used Git and structured version control workflows to manage development tasks
 
 ---
 
-## Current Focus
+## 🧠 What I'm Working On
 
 ```txt
-Full Stack Development     React + FastAPI applications
-Backend Systems            REST APIs, auth flows, protected routes
-Database Architecture      PostgreSQL, SQLAlchemy, migrations
-Security Foundations       JWT, password hashing, RBAC
-Frontend Engineering       Reusable UI, routing, responsive layouts
+⚙️  Full Stack Projects       — React + FastAPI applications
+🔐  Authentication Systems    — JWT, protected routes, backend validation
+🗄️  Database Architecture     — PostgreSQL, SQLAlchemy, migrations
+🧩  Admin Dashboards          — CRUD systems, RBAC, secure workflows
+📚  FAST-NUCES CS             — Strengthening CS fundamentals and software engineering skills
 ```
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=attarehman962&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attarehman962&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=attarehman962&show_icons=true&theme=dark&hide_border=true&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attarehman962&layout=compact&theme=dark&hide_border=true&title_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=attarehman962&theme=github-dark-blue&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=attarehman962&theme=dark&hide_border=true&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2)](https://git.io/streak-stats)
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=attarehman962&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=attarehman962&theme=github-compact&hide_border=true&area=true&color=00FFB2&line=00FFB2&point=ffffff" />
 
 </div>
 
 ---
 
-## Developer Principles
+## 🧭 Developer Philosophy
 
 ```txt
-Write clear code.
-Build practical systems.
-Secure the backend.
-Respect the database.
-Ship projects that solve real problems.
+Build systems that work.
+Keep the frontend clean.
+Secure the backend properly.
+Design databases with care.
+Write code that another developer can understand.
 ```
 
 ---
 
-## Connect With Me
+## 🌐 Find Me
 
 <div align="center">
 
-<a href="mailto:attaurrehman.builds@gmail.com">
-  <img src="https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.linkedin.com/in/attaurrehman962/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://github.com/attarehman962">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-attarehman962-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/attarehman962)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
+[![Email](https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
 
 </div>
 
@@ -276,6 +269,12 @@ Ship projects that solve real problems.
 
 <div align="center">
 
-### Open to internship opportunities, freelance projects, and full-stack development collaborations.
+```
+/* Practical software. Clean architecture. Secure backend. */
+```
+
+_If something I built helped you — drop a ⭐ on the repository._
+
+**Full Stack Developer · FAST-NUCES '26 · React · FastAPI · PostgreSQL**
 
 </div>
