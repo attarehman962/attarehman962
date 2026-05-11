@@ -39,7 +39,7 @@ Currently interning as a Full Stack Developer at **QuantumLogicsLabs**, where I 
 
 ## 🚀 Featured Projects
 
-### [📄 DocMate](https://github.com/attarehman962/DocMate) — Full Stack PDF Workspace
+### <a href="https://github.com/attarehman962/DocMate"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=0&pause=999999&color=ff5b36&width=1&lines=." alt="" height="0"/><span style="display:inline-flex;height:28px;width:28px;align-items:center;justify-content:center;border-radius:8px;background:linear-gradient(135deg,%23ff5b36_0%25,%23ff2b63_100%25);font-size:16px;font-weight:900;color:white;vertical-align:middle;margin-right:6px">D</span> **DocMate**</a> — Full Stack PDF Workspace
 > **Live:** [docmate-pagebuddy.netlify.app](https://docmate-pagebuddy.netlify.app/)
 
 A complete document-processing platform built around real PDF workflows. Supports merge, split, compress, rotate, watermark, and format conversion — with text extraction, OCR fallback for scanned files, multilingual translation, and AI-based summarization.
