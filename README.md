@@ -108,7 +108,6 @@ A React-based platform for learning digital logic. Includes Circuit Forge, K-Map
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
 ![Alembic](https://img.shields.io/badge/Alembic-111827?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
