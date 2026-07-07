@@ -1,140 +1,135 @@
 <div align="center">
 
-# Atta Ur Rehman
+# Hi, I'm Atta Ur Rehman
 
-### Full Stack Developer · BS Computer Science, FAST-NUCES '26
+### Python Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=React+%2B+FastAPI+%2B+PostgreSQL;Building+secure%2C+database-driven+web+apps;JWT+Auth+%7C+REST+APIs+%7C+Admin+Dashboards;Clean+frontend.+Solid+backend.+Real+software.)](https://git.io/typing-svg)
+**FastAPI | React | PostgreSQL | Security Tools | Docker | Testing**
 
-<div align="center">
-
-<a href="https://attaurrehman-portfolio-p.netlify.app/#about" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Portfolio-Full_Stack_Developer-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"
-    height="45"
-  />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app/#about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
 
 </div>
 
-<br/><br/>
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-attarehman962-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/attarehman962)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
-[![Email](https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
+## Snapshot
 
-</div>
+```text
+Role       Python Full Stack Developer
+Education  BS Computer Science, FAST-NUCES
+Location   Sialkot, Pakistan
+Focus      FastAPI backends, React frontends, PostgreSQL, auth, reports, security tools
+Building   Security Misconfiguration Scanner
+```
 
 ---
 
 ## About Me
 
-I'm a final-year CS student at FAST-NUCES building full-stack web applications with React, FastAPI, and PostgreSQL. I focus on authentication systems, role-based access control, and clean API design — software that's practical, secure, and maintainable.
-
-Currently interning as a Full Stack Developer at **QuantumLogicsLabs**, where I ship real features across the entire stack.
-
----
-
-## 💼 Experience
-
-**Full Stack Developer Intern — QuantumLogicsLabs** *(Apr 2026 – Present)*
-
-- Building responsive React frontends with component-driven architecture and API-driven UI flows
-- Implementing JWT authentication — login, signup, protected routes, session persistence, and backend validation
-- Developing and maintaining FastAPI/Flask REST APIs for database-driven features
-- Working with PostgreSQL and MySQL for schema design, queries, and relational data modeling
-- Managing development tasks with Git and structured version control workflows
+- I am a **BS Computer Science holder from FAST-NUCES** and a **Python Full Stack Developer** from Sialkot, Pakistan.
+- I build backend-heavy applications with **FastAPI, PostgreSQL, SQLAlchemy, JWT auth, Docker, and React**.
+- I like turning rough ideas into working systems: clean APIs, protected routes, database models, reports, exports, and usable frontend flows.
+- I am currently working as a **Full Stack Developer Intern at QuantumLogicsLabs**, building features across frontend, backend, authentication, APIs, and databases.
+- My current main project is a **Security Misconfiguration Scanner** that detects risky web deployment patterns and generates scan history, reports, and exports.
+- I care about writing software that is practical, testable, documented, and easy to run outside my own machine.
 
 ---
 
-## 🚀 Featured Projects
+## Main Project
 
-### <a href="https://github.com/attarehman962/DocMate"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=0&pause=999999&color=ff5b36&width=1&lines=." alt="" height="0"/><span style="display:inline-flex;height:28px;width:28px;align-items:center;justify-content:center;border-radius:8px;background:linear-gradient(135deg,%23ff5b36_0%25,%23ff2b63_100%25);font-size:16px;font-weight:900;color:white;vertical-align:middle;margin-right:6px">D</span> **DocMate**</a> — Full Stack PDF Workspace
-> **Live:** [docmate-pagebuddy.netlify.app](https://docmate-pagebuddy.netlify.app/)
+### [Security Misconfiguration Scanner](https://github.com/attarehman962/security-misconfiguration-scanner)
 
-A complete document-processing platform built around real PDF workflows. Supports merge, split, compress, rotate, watermark, and format conversion — with text extraction, OCR fallback for scanned files, multilingual translation, and AI-based summarization.
+A Python/FastAPI platform that scans websites for common security misconfigurations and stores scan history in PostgreSQL.
 
-`React` `Vite` `Tailwind CSS` `FastAPI` `SQLAlchemy` `SQLite/PostgreSQL` `pypdf` `ReportLab`
+**What it checks**
 
----
+- Missing or weak security headers
+- Exposed sensitive files
+- Weak CORS behavior
+- Server banner leaks
+- SSL and HTTPS issues
+- Risky deployment patterns
 
-### [🛡️ User Management System](https://github.com/attarehman962/User_Management) — Secure Admin Dashboard
-> **Live:** [user-management-p.netlify.app](https://user-management-p.netlify.app/)
+**What I built**
 
-Role-based admin application with protected CRUD operations, HS256 JWT auth, PBKDF2-SHA256 password hashing, PostgreSQL migrations via Alembic, and backend testing against SQLite.
+- CLI scanner with table and JSON output
+- JWT-authenticated API under `/api/v1`
+- Background scan jobs with persisted status
+- PostgreSQL models for users, scans, findings, and scraped jobs
+- PDF reports for completed scans
+- Web scraping with static parsing and optional Playwright support
+- CSV export for saved scrape results
+- Docker Compose setup with app, database, and intentionally vulnerable target site
+- Tests and quality checks with pytest, pytest-asyncio, Ruff, mypy, coverage, and GitHub Actions
 
-`FastAPI` `React` `Vite` `PostgreSQL` `SQLAlchemy` `JWT` `Alembic`
+**Project stack**
 
----
-
-### [🔢 Digital Logics Studio](https://github.com/attarehman962/DigitalLogicsStudio) — Interactive Learning Platform
-> **Live:** [circuits.quantumlogicslimited.com](https://circuits.quantumlogicslimited.com/)
-
-A React-based platform for learning digital logic. Includes Circuit Forge, K-Map Studio, Boolean algebra, number systems, sequential logic modules, and full session-based authentication.
-
-`React 18` `React Router DOM` `Axios` `CSS` `REST API`
-
----
-
-## ⚡ Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1f1f1f?style=flat-square&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-1f1f1f?style=flat-square&logo=reactrouter&logoColor=CA4245)
-![Axios](https://img.shields.io/badge/Axios-1f1f1f?style=flat-square&logo=axios&logoColor=5A29E4)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1f1f1f?style=flat-square&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-1f1f1f?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1f1f1f?style=flat-square&logo=python&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57)
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
-![Alembic](https://img.shields.io/badge/Alembic-111827?style=flat-square&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT` `HTTPX` `Docker` `pytest` `Ruff` `mypy` `ReportLab` `Playwright`
 
 ---
 
-## 📊 GitHub Stats
+## Engineering Habits
+
+- I separate API routes, schemas, services, CRUD, repositories, and models.
+- I use Pydantic models for request and response contracts.
+- I write tests around API behavior, services, database rules, and edge cases.
+- I use Alembic migrations instead of manual database changes.
+- I document commands and API examples so the project can be run and reviewed easily.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=attarehman962&show_icons=true&theme=dark&hide_border=true&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attarehman962&layout=compact&theme=dark&hide_border=true&title_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
+### Main Tools
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,vite,tailwind,js,postgres,mysql,sqlite,docker,git,github,linux&perline=7" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=attarehman962&theme=dark&hide_border=true&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2)](https://git.io/streak-stats)
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=attarehman962&theme=github-compact&hide_border=true&area=true&color=00FFB2&line=00FFB2&point=ffffff" />
+### Backend and Quality
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-111827?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-111827?style=for-the-badge&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Ruff](https://img.shields.io/badge/Ruff-111827?style=for-the-badge&logo=ruff&logoColor=D7FF64)
+![mypy](https://img.shields.io/badge/mypy-111827?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
 ---
 
+## GitHub Activity
+
 <div align="center">
 
-*Open to internship and junior developer opportunities.*
-*Drop a ⭐ if something I built helped you.*
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=attarehman962&show_icons=true&theme=dark&hide_border=true&title_color=00FFB2&icon_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=attarehman962&layout=compact&theme=dark&hide_border=true&title_color=00FFB2&text_color=ffffff&bg_color=0d1117" />
 
-**Full Stack Developer · FAST-NUCES '26 · Karachi, Pakistan**
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=attarehman962&theme=dark&hide_border=true&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-attaurrehman-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app/#about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
+[![Email](https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
+
+Open to internship, junior developer, and Python full stack opportunities.
+
+**Python Full Stack Developer | BSCS, FAST-NUCES | Sialkot, Pakistan**
 
 </div>
