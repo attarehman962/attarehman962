@@ -4,7 +4,7 @@
 
 ### Python Backend Developer
 
-**FastAPI | PostgreSQL | Automation | Web Scraping | Security Tools | Docker | Testing**
+**FastAPI & PostgreSQL | Automation & Web Scraping | Security Tools**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
