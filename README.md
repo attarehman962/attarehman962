@@ -7,6 +7,7 @@
 **FastAPI & PostgreSQL | Automation & Web Scraping | Security Tools**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white)](cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
 
@@ -172,6 +173,7 @@ A full-stack PDF workspace for uploading, processing, and extracting content fro
 Open to internships, junior Python backend roles, automation projects, and backend-heavy full-stack opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-attaurrehman-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-cv.pdf-111827?style=flat-square&logo=readme&logoColor=white)](cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
 [![Email](https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
 
