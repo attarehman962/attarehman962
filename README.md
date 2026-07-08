@@ -75,13 +75,9 @@ A Python/FastAPI platform that scans websites for common security misconfigurati
 
 ## Pinned Repositories
 
-<div align="center">
-
-[![Security Misconfiguration Scanner](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=security-misconfiguration-scanner&theme=dark&hide_border=true)](https://github.com/attarehman962/security-misconfiguration-scanner)
-[![BEAMS360](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=BEAMS360&theme=dark&hide_border=true)](https://github.com/attarehman962/BEAMS360)
-[![DocMate](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=DocMate&theme=dark&hide_border=true)](https://github.com/attarehman962/DocMate)
-
-</div>
+- **[Security Misconfiguration Scanner](https://github.com/attarehman962/security-misconfiguration-scanner)** — Python/FastAPI security scanner with JWT auth, PostgreSQL, PDF reports, and CI.
+- **[BEAMS360](https://github.com/attarehman962/BEAMS360)** — EdTech admissions CRM prototype with React, FastAPI, and role-based access control.
+- **[DocMate](https://github.com/attarehman962/DocMate)** — Full-stack PDF workspace with text extraction, OCR, and report generation.
 
 ---
 
