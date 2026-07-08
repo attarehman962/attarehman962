@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=attarehman962&color=2563EB&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -22,19 +24,18 @@ Education  BS Computer Science, FAST-NUCES, 2022-2026
 Location   Sialkot, Pakistan
 Focus      FastAPI backends, automation, web scraping, security tools, reports
 Building   Security Misconfiguration Scanner
+Currently  Software Developer Intern @ QuantumLogicsLabs
 ```
 
 ---
 
 ## About Me
 
-I am a BS Computer Science holder from FAST-NUCES and a Python backend developer focused on building practical backend systems, automation tools, web scraping workflows, and security-focused developer tools.
+I like building systems that are not just UI demos: APIs, authentication, database models, background jobs, reports, exports, CLI tools, documentation, Docker setup, and tests.
 
 My strongest project is a Security Misconfiguration Scanner built with Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT authentication, Docker, pytest, Ruff, mypy, GitHub Actions, ReportLab, HTTPX, and Playwright.
 
-I like building systems that are not just UI demos: APIs, authentication, database models, background jobs, reports, exports, CLI tools, documentation, Docker setup, and tests.
-
-I am currently working as a Software Developer Intern at QuantumLogicsLabs, contributing across frontend, backend, authentication, APIs, and database-backed features.
+At QuantumLogicsLabs, I contribute across frontend, backend, authentication, APIs, and database-backed features.
 
 ---
 
@@ -72,11 +73,29 @@ A Python/FastAPI platform that scans websites for common security misconfigurati
 
 ---
 
+## Pinned Repositories
+
+<div align="center">
+
+[![Security Misconfiguration Scanner](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=security-misconfiguration-scanner&theme=dark&hide_border=true)](https://github.com/attarehman962/security-misconfiguration-scanner)
+[![BEAMS360](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=BEAMS360&theme=dark&hide_border=true)](https://github.com/attarehman962/BEAMS360)
+[![DocMate](https://github-readme-stats.vercel.app/api/pin/?username=attarehman962&repo=DocMate&theme=dark&hide_border=true)](https://github.com/attarehman962/DocMate)
+
+</div>
+
+---
+
 ## Other Projects
 
 ### [Mini BEAMS360 Admissions CRM](https://github.com/attarehman962/BEAMS360)
 
-An EdTech admissions CRM prototype with React, FastAPI, PostgreSQL, JWT authentication, role-based access control, dashboards, lead tracking, filters, and parent/student portal functionality.
+An EdTech admissions CRM prototype for managing leads, applications, and student/parent access.
+
+- Role-based access control for admins, staff, and parent/student portal users
+- JWT-authenticated FastAPI backend with PostgreSQL-backed lead and application data
+- Dashboard views with filters and status tracking for admissions staff
+- React + Tailwind CSS frontend consuming the FastAPI backend
+- Dockerized setup for local development
 
 `React` `FastAPI` `PostgreSQL` `JWT` `RBAC` `Tailwind CSS` `Docker`
 
@@ -84,7 +103,12 @@ An EdTech admissions CRM prototype with React, FastAPI, PostgreSQL, JWT authenti
 
 ### [DocMate - Full Stack PDF Workspace](https://github.com/attarehman962/DocMate)
 
-A full-stack PDF workspace with file operations, text extraction, PDF reports, OCR/summarization workflows, and backend processing.
+A full-stack PDF workspace for uploading, processing, and extracting content from PDF files.
+
+- File upload and management workflows backed by PostgreSQL and SQLAlchemy
+- Text extraction and PDF report generation with `pypdf` and ReportLab
+- OCR and summarization workflow support for scanned/unstructured documents
+- FastAPI backend serving a React frontend for document operations
 
 `React` `FastAPI` `SQLAlchemy` `PostgreSQL` `pypdf` `ReportLab`
 
@@ -137,20 +161,22 @@ A full-stack PDF workspace with file operations, text extraction, PDF reports, O
 
 <img height="165" src="https://streak-stats.demolab.com?user=attarehman962&theme=dark&hide_border=true" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=attarehman962&theme=darkhub&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
 
-## Contact
+## Let's Talk
 
 <div align="center">
+
+Open to internships, junior Python backend roles, automation projects, and backend-heavy full-stack opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-attaurrehman-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://attaurrehman-portfolio-p.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atta_Ur_Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attaurrehman962/)
 [![Email](https://img.shields.io/badge/Email-attaurrehman.builds%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:attaurrehman.builds@gmail.com)
-
-Open to internships, junior Python backend roles, automation projects, and backend-heavy full-stack opportunities.
-
-**Python Backend Developer | FastAPI | PostgreSQL | Automation | Web Scraping | Security Tools**
 
 </div>
